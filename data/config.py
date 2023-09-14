@@ -1,7 +1,2 @@
-from environs import Env
-
-env = Env()
-env.read_env()
-
-BOT_TOKEN = env.str("BOT_TOKEN")
-IP = env.str("ip")
+BOT_TOKEN = "6114540894:AAEz-XaYiIZkon74cPasvP_Py1_7MwKffw8"
+IP = "localhost"
